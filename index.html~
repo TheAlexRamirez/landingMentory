@@ -1,0 +1,143 @@
+
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Mentory.co</title>
+        <link rel="icon" type="image/x-icon" href="assetsLanding/img/favicon.ico" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="assetsLanding/css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all">
+        <link href="assetsLanding/css/themify-icons.css" rel="stylesheet" type="text/css" media="all" />
+        <link href="assetsLanding/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+        <link href="assetsLanding/css/flexslider.css" rel="stylesheet" type="text/css" media="all" />
+        <link href="assetsLanding/css/theme.css" rel="stylesheet" type="text/css" media="all" />
+        <link href="assetsLanding/css/custom.css" rel="stylesheet" type="text/css" media="all" />
+        <link href='http://fonts.googleapis.com/css?family=Lato:300,400%7CRaleway:100,400,300,500,600,700%7COpen+Sans:400,500,600' rel='stylesheet' type='text/css'>
+    </head>
+    <body  class="nav-is-overlay">
+				
+		<div class="nav-container">
+            <a id="top"></a>
+            <nav class="absolute transparent">
+                <div class="nav-bar">
+                    <div class="module left">
+                        <a href="index.html">
+                            <img class="logo logo-light" alt="Foundry" src="assetsLanding/img/logo-light1.png">
+                            <img class="logo logo-dark" alt="Foundry" src="assetsLanding/img/logo-dark1.png">
+                        </a>
+                    </div>
+                    <div class="module widget-handle mobile-toggle right visible-sm visible-xs">
+                        <i class="ti-menu"></i>
+                    </div>
+                    <div class="module-group right">
+                        <div class="module left">
+                            <ul class="menu">
+                                <li class="has-dropdown">
+                                   
+                                    </li>
+
+                                <li >
+                                    <a  href="#" class="btn btn-sm" style="border-radius:30px" >
+                                        Comig Soon
+                                    </a>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                        <!--end of menu module-->
+
+
+                       
+                                <!--end of widget-->
+   
+                    <!--end of module group-->
+                	</div>
+				</div>
+            </nav>
+        </div>
+		
+		<div class="main-container">
+		<section class="cover fullscreen image-slider slider-all-controls controls-inside parallax">
+		        <ul class="slides">
+		            <li class="overlay image-bg">
+		                <div class="background-image-holder">
+		                    <img alt="image" class="background-image" src="assetsLanding/img/app.jpg">
+		                </div>
+		                <div class="container v-align-transform">
+		                    <div class="row">
+		                        <div class="col-md-12 col-sm-8" style="top:60px">
+		                            <h1 class="mb40 mb-xs-16 large text-center" style="bold; font-family:Futura-Bold">La solución del futuro pronto estará aquí.</h1>
+		                            <h6 class="uppercase mb16 text-center" id="subheading">SOLUCIONES MAS FACILES CON LA EXPERIENCIA DE MENTORES</h6>
+		                            
+		                            
+		                        </div>
+                                <div class="qoute col-md-6" style="float:right; margin:50px; top:50px ">
+
+                                    <div class="person-img" style="width:50%, ">
+                                        
+                                        
+                                        <img src="assetsLanding/img/kike.jpg" style="width:20%; border-radius:100%; float:right">
+                                        <h6> KIKE DIAZ - CO-Founder Dev.f</h6>
+                                    </div>
+                                    <h6 style="color:#fff; float:left; width:75%;bottom:30px; margin:-10px "> "Mentory facilita la manera de comunicarse, motivarse y aprender con los mejores mentores. Puede convertirse en una nueva manera de emprender en los negocios y afrontar problemas mas complejos"</h6>
+
+                                </div>
+
+
+		                    </div>
+                            <img src="assetsLanding/img/appstore.png" style="width:10%; position:absolute; bottom:0; ">
+                            <img src="assetsLanding/img/googleplay.png" style="width:10%; position:absolute; bottom:0; margin-left:11% ">
+		                    
+		                </div>
+		                
+		            </li>
+		        </ul>
+		    </section>
+
+
+
+
+
+
+            
+           
+
+		   
+
+        </div>
+		<footer style="color:#000">
+			<div class="col-md-12 col-sm-1 footercolum">
+
+				<a class="btn3 btn-lg" href="#">Registrate para la inaguracion</a>
+				<a class="btn2 btn-lg" href="#">Aplica para ser mentor</a>
+
+
+				<img src="assetsLanding/img/logo-light1.png" style="float:left; width: 150px ">
+			</div>
+			<div class="col-md-12 col-sm-8 footercolum">
+				<br>
+				<hr>
+
+				<div class="col-md-6 col-sm-6">
+					<ul class="list-inline text-left cen-xs">
+                            
+                            <li><a class="topbutton" href="#">Back to top <i class="fa fa-angle-up"></i></a></li>
+                    </ul>
+                    <p  class="text-left"style="color:#fff">
+                    	&copy; Mentory.Co INC. 2016 - All Rights Reserverd.
+                    </p>
+				</div>
+			
+			</div>
+			
+		</footer>
+         
+        <script src="assetsLanding/js/bootstrap.js"></script>	
+		<script src="assetsLanding/js/jquery.min.js"></script>
+        <script src="assetsLanding/js/bootstrap.min.js"></script>
+        <script src="assetsLanding/js/flexslider.min.js"></script>
+        <script src="assetsLanding/js/parallax.js"></script>
+        <script src="assetsLanding/js/scripts.js"></script>
+    </body>
+</html>
+				
